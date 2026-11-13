@@ -1,3 +1,16 @@
 # Research Methodology
 
-This directory contains the methodological framework, protocols, and procedures used in this research on sea turtle–fisheries interactions along the southern Atlantic coast of Morocco.
+This directory describes the methods used in the doctoral research project.
+
+## Fisheries Interactions
+Field observations and documentation of marine turtle interactions with fishing activities.
+
+## Strandings
+Monitoring, recording and analysis of marine turtle stranding events.
+
+## Potential Nesting Habitats
+Beach surveys and assessment of potential nesting habitats.
+
+## Data Collection
+Field observations, photographs, biological measurements and geographical information.
+
